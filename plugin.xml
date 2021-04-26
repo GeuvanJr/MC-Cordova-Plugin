@@ -35,8 +35,6 @@
       </feature>
     </config-file>
     
-    <!-- add json config file -->
-    <resource-file src="src/android/config/google-services.json" target="app/google-services.json" />
     
     <config-file parent="/manifest/application" target="AndroidManifest.xml">
 
@@ -47,6 +45,9 @@
     <source-file src="src/android/MCSdkConfig.java" target-dir="src/com/salesforce/marketingcloud/cordova" />
     <source-file src="src/android/MCInitProvider.java" target-dir="src/com/salesforce/marketingcloud/cordova" />
     <source-file src="src/android/MCSdkListener.java" target-dir="src/com/salesforce/marketingcloud/cordova" />
+    
+    <!-- add json config file -->
+    <resource-file src="src/android/config/google-services.json" target="app/google-services.json" />
 
   </platform>
 
