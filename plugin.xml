@@ -35,8 +35,8 @@
       </feature>
     </config-file>
     
-    <!-- add config json copnfig file -->
-    <resource-file src="google-services.json" target="src/android/config/google-services.json" />
+    <!-- add json config file -->
+    <resource-file src="src/android/config/google-services.json" target="$PACKAGE_NAME/google-services.json" />
     
     <config-file parent="/manifest/application" target="AndroidManifest.xml">
 
