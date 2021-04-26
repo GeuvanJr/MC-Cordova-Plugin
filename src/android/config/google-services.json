@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "334628584447",
+    "project_id": "sales-force-integration-331b8",
+    "storage_bucket": "sales-force-integration-331b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334628584447:android:eb9a8a2c0c083373f345ca",
+        "android_client_info": {
+          "package_name": "com.outsystemscloud.geuvanjunior.testesalesforce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334628584447-of2s4kmnm87pa8svqraodkj7t3dugnii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8eJ8l-1pirY8SBkkEdqmI-d73SBG-YBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334628584447-of2s4kmnm87pa8svqraodkj7t3dugnii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
